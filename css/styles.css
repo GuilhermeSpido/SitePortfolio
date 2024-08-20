@@ -167,6 +167,7 @@ span {
     justify-content: space-between;
     min-height: 25rem;
     margin-bottom: 1rem;
+    height: auto;
 }
 
 .skills-container .skills-box:hover {
@@ -424,6 +425,7 @@ footer {
 
     .skills-box {
         width: 70%;
+        height: auto;
     }
 
 }
